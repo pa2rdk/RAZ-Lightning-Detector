@@ -1,6 +1,6 @@
 //RAZLightning.ino v2.6 08/04/2017
 //Placed on GITHUB Aug. 1 2018
-//By R,J. de Kok - (c) 2018
+//By R.J. de Kok - (c) 2018
 
 #include "Arduino.h"
 
