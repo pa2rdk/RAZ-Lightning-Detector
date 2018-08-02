@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RAZLightning</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>io.sloeber.core.inoToCpp</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+		<nature>io.sloeber.arduinonature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>core/core</name>
+			<type>2</type>
+			<location>/Applications/Arduino-1.8.3.app/Contents/Java/hardware/arduino/avr/cores/arduino</location>
+		</link>
+		<link>
+			<name>core/variant</name>
+			<type>2</type>
+			<location>/Applications/Arduino-1.8.3.app/Contents/Java/hardware/arduino/avr/variants/eightanaloginputs</location>
+		</link>
+		<link>
+			<name>libraries/Adafruit-ST7735-Library-master</name>
+			<type>2</type>
+			<location>/Users/robertdekok/Library/Mobile Documents/com~apple~CloudDocs/ARDUINO/libraries/Adafruit-ST7735-Library-master</location>
+		</link>
+		<link>
+			<name>libraries/Adafruit_GFX_Library</name>
+			<type>2</type>
+			<location>/Users/robertdekok/Library/Mobile Documents/com~apple~CloudDocs/ARDUINO/libraries/Adafruit_GFX_Library</location>
+		</link>
+		<link>
+			<name>libraries/EEPROM</name>
+			<type>2</type>
+			<location>/Applications/Arduino-1.8.3.app/Contents/Java/hardware/arduino/avr/libraries/EEPROM</location>
+		</link>
+		<link>
+			<name>libraries/I2C</name>
+			<type>2</type>
+			<location>/Users/robertdekok/Library/Mobile Documents/com~apple~CloudDocs/ARDUINO/libraries/I2C</location>
+		</link>
+		<link>
+			<name>libraries/RDKESP8266</name>
+			<type>2</type>
+			<location>/Users/robertdekok/Library/Mobile Documents/com~apple~CloudDocs/ARDUINO/libraries/RDKESP8266</location>
+		</link>
+		<link>
+			<name>libraries/SPI</name>
+			<type>2</type>
+			<location>/Applications/Arduino-1.8.3.app/Contents/Java/hardware/arduino/avr/libraries/SPI</location>
+		</link>
+		<link>
+			<name>libraries/SoftwareSerial</name>
+			<type>2</type>
+			<location>/Applications/Arduino-1.8.3.app/Contents/Java/hardware/arduino/avr/libraries/SoftwareSerial</location>
+		</link>
+		<link>
+			<name>libraries/sen39001_arduino_i2c_r00</name>
+			<type>2</type>
+			<location>/Users/robertdekok/Library/Mobile Documents/com~apple~CloudDocs/ARDUINO/libraries/sen39001_arduino_i2c_r00</location>
+		</link>
+	</linkedResources>
+</projectDescription>
