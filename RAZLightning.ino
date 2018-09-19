@@ -568,7 +568,6 @@ void printConfig() {
 
 void setSettings(bool doAsk) {
 	int i = 0;
-
 	Serial.print(F("SSID ("));
 	Serial.print(storage.ESP_SSID);
 	Serial.print(F("):"));
