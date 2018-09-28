@@ -43,9 +43,6 @@
 #define bckLightOn            0
 #endif
 
-
-
-
 #define beepOn                1
 #define beepOff               0
 // interrupt trigger global var

@@ -32,6 +32,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/I2C}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/PCD8544}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.1666961004" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
 							</tool>
@@ -50,6 +51,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/I2C}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/PCD8544}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.1329192523" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
 							</tool>
@@ -68,6 +70,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/I2C}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/SPI/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/RAZLightning/libraries/PCD8544}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.183514263" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
 							</tool>
