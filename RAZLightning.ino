@@ -3,7 +3,7 @@
 //By R.J. de Kok - (c) 2018
 
 #include "Arduino.h"
-
+#include "I2C.h"
 #include "PWFusion_AS3935_I2C.h"
 #include <SoftwareSerial.h>
 #include <RDKESP8266.h>
@@ -1612,17 +1612,3 @@ void printArrow() {
 	display.drawLine( 86,  46,  88, 44, GRFCLR);
 }
 #endif
-
-
-
-
-
-
-
-
-
-
-
-
-
-

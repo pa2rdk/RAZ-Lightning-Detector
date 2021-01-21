@@ -3,12 +3,17 @@
         {
             "name": "Mac",
             "includePath": [
+                "/Applications/Arduino-1.8.12.app/Contents/Java/tools/**",
+                "/Applications/Arduino-1.8.12.app/Contents/Java/hardware/arduino/avr/**",
                 "/Users/robertdekok/Library/Arduino15/packages/esp32/tools/**",
                 "/Users/robertdekok/Library/Arduino15/packages/esp32/hardware/esp32/1.0.3/**",
                 "/Users/robertdekok/Library/Arduino15/packages/esp8266/tools/**",
-                "/Users/robertdekok/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.2/**"
+                "/Users/robertdekok/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "/Users/robertdekok/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/**"
             ],
-            "forcedInclude": [],
+            "forcedInclude": [
+                "/Applications/Arduino-1.8.12.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
             "macFrameworkPath": [
                 "/System/Library/Frameworks",
                 "/Library/Frameworks"
